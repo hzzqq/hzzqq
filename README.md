@@ -19,6 +19,17 @@
 | [🧩 App Hub](https://github.com/hzzqq/apphub) | 31 个零依赖单文件 HTML 微应用 + Flask 真实数据 | 金融 15 + 效率 16 · 同源部署即分享 |
 | [🎮 Game Hub](https://github.com/hzzqq/game) | 165 款原生 HTML/CSS/JS 游戏 | **6641 项自动化测试**全绿 |
 
+### 📸 产品实拍（StockSignal 真实运行界面）
+
+<div align="center">
+<img src="screenshots/01-kline-light.png" width="32%" alt="行情看板 · 日K + 均线 + 量能"/>
+<img src="screenshots/03-sector-heatmap.png" width="32%" alt="行业板块涨跌热力图"/>
+<img src="screenshots/05-backtest-curve.png" width="32%" alt="策略回测收益曲线"/>
+</div>
+
+> 依次为：**行情看板**（茅台日K + 4 均线 + 量能）· **板块热力图**（行业涨跌分布）· **策略回测**（收益曲线 vs 沪深300）。
+> 均为真实运行界面，数据取自本地缓存的真实行情，非设计稿。
+
 **硬核克隆（Dev Lab）**：[Lumen](https://github.com/hzzqq/lumen) 实时路径追踪 · [VoxelForge](https://github.com/hzzqq/voxelforge) 体素世界 · [Sibilant](https://github.com/hzzqq/sibilant) Lisp 解释器 · [CollabBoard](https://github.com/hzzqq/collabboard) WebSocket 协作白板
 
 ## 📄 简历（点击直接下载）
