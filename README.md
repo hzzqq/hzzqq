@@ -21,9 +21,14 @@
 
 **硬核克隆（Dev Lab）**：[Lumen](https://github.com/hzzqq/lumen) 实时路径追踪 · [VoxelForge](https://github.com/hzzqq/voxelforge) 体素世界 · [Sibilant](https://github.com/hzzqq/sibilant) Lisp 解释器 · [CollabBoard](https://github.com/hzzqq/collabboard) WebSocket 协作白板
 
-## 📄 简历
-- [校招版简历（2 页 PDF）](resume_campus.pdf)
-- [完整求职版简历（3 页 PDF）](resume_黄子州.pdf)
+## 📄 简历（点击直接下载）
+| 版本 | 页数 | 适用场景 |
+|---|---|---|
+| [模板版简历](resume_黄子州_模板版.pdf) | 2 页 | **院校模板排版**，5 个项目名均带 GitHub 可点击链接 —— 首选投递 |
+| [校招版简历](resume_campus.pdf) | 2 页 | 通用校招，收敛广度、压实战绩 |
+| [完整求职版简历](resume_黄子州.pdf) | 3 页 | 社招 / 通用，含接单服务板块 |
+
+> 三版内容同源，均经真实项目数据核实；模板版额外把每个项目名做成了**可点击超链接**，点开即跳对应仓库。
 
 ## 📮 联系
 - 邮箱：2054786834@qq.com ｜ 微信：18207948306 ｜ 所在地：上海
